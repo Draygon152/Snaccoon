@@ -75,3 +75,4 @@ DerivedDataCache/*
 
 # Exclude paid assets
 Content/PaidAssets/*
+*.zip

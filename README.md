@@ -15,6 +15,8 @@ A game made for the 2023 Cozy Autumn Game Jam
 - https://kenney.nl/assets/roguelike-rpg-pack
 - https://www.dafont.com/font-comment.php?file=rainyhearts#top
 - [Halcyon Days - Justin Lee](https://uppbeat.io/track/justin-lee/halcyon-days)
+- [Down the Lazy River - Ben McElroy](https://uppbeat.io/track/ben-mcelroy/down-the-lazy-river)
+- [Tea for Two - Aaron Paul](https://uppbeat.io/track/aaron-paul-low/tea-for-two)
 - [Dawn Chaser - Justin Lee](https://uppbeat.io/track/justin-lee/dawn-chaser)
 - [Gentle Breeze - Yeti Music](https://uppbeat.io/track/yeti-music/gentle-breeze)
 - [The Way - Asher Lee](https://uppbeat.io/track/asher-lee/the-way)
