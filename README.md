@@ -12,3 +12,8 @@ A game made for the 2023 Cozy Autumn Game Jam
 - https://lyaseek.itch.io/miniffanimals
 - https://lukaslundin.itch.io/froglet
 - https://kenney.nl/assets/roguelike-rpg-pack
+- https://www.dafont.com/font-comment.php?file=rainyhearts#top
+- Halcyon Days - Justin Lee
+- Dawn Chaser - Justin Lee
+- Gentle Breeze - Yeti Music
+- The Way - Asher Lee
